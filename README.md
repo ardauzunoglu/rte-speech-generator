@@ -1,4 +1,6 @@
-# rte-speech-generator
+# RTE Speech Generator
+
+
 
 ### ENG
 Natural Language Processing application to generate speeches for the President of Turkey.
