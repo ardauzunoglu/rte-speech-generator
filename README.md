@@ -19,7 +19,7 @@ RTE Speech Generator is a natural language processing application that analyzes 
 
 ### Developer
 
-Arda Uzunoğlu - ardauzunoglu
+Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
 
 ### Further Notes
 
@@ -45,7 +45,7 @@ RTE Hitabe Üreticisi, Türkiye'nin Başkanı Recep Tayyip Erdoğan tarafından 
 
 ### Geliştirici
 
-Arda Uzunoğlu - ardauzunoglu
+Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
 
 ### İlave Notlar
 
