@@ -2,24 +2,20 @@
 
 ### Purpose
 
-Yemeksepeti Order Automatization is a desktop application provides automatization for you to order from online food delivery website, Yemeksepeti. This automatization app reinforces the purpose of Yemeksepeti, saving time.
+RTE Speech Generator is natural language processing application that analyzes the speeches given by the President of Turkey, Recep Tayyip Erdoğan between 2015 and 2020 July and generates new speeches.
 
 ### Libraries Used
 
-- Selenium
-- PyQt5
-- Time
-- Sqlite3
+- Tensorflow
+- Pandas
+- Numpy
+- Nltk
+- Os
+- Textblob
 
 ### Requirements
 
 > You must install the libraries in cmd with the command "pip install xxxxx".
-
-> You must install ChromeDriver and the directory shall be "C:\Program Files (x86)\chromedriver.exe".
-
-> Download ChromeDriver
-
-> ps: You can change the 'path' variable to where ChromeDriver is if the directory is not same as above.
 
 ### Developer
 
@@ -27,7 +23,7 @@ Arda Uzunoğlu - ardauzunoglu
 
 ### Further Notes
 
-Application still can be developed and improved with additions and improvements, I might take a look to make it better someday.
+Application still can be trained and improved.
 
 
 ### Amaç
@@ -36,10 +32,12 @@ Yemeksepeti Sipariş Otomatizasyonu, Yemeksepeti'nin internet sitesinden verece�
 
 ### Kullanılan Kütüphaneler
 
-- Selenium
-- PyQt5
-- Time
-- Sqlite3
+- Tensorflow
+- Pandas
+- Numpy
+- Nltk
+- Os
+- Textblob
 
 ### Gereksinimler
 
