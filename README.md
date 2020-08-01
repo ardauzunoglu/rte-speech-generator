@@ -2,7 +2,7 @@
 
 ### Purpose
 
-RTE Speech Generator is a natural language processing application that analyzes the speeches given by the President of Turkey, Recep Tayyip Erdoğan between 2015 and 2020 July and generates new speeches.
+RTE Speech Generator is a natural language processing application that **analyzes** the speeches given by the President of Turkey, Recep Tayyip Erdoğan between 2015 and 2020 July and **generates new speeches**.
 
 ### Libraries Used
 
@@ -28,7 +28,7 @@ Application still can be trained and improved.
 
 ### Amaç
 
-RTE Hitabe Üreticisi, Türkiye'nin Başkanı Recep Tayyip Erdoğan tarafından 2015 ve 2020 Temmuz tarihleri arasında yapılan konuşmaları analiz ederek yeni hitabe üreten bir doğal dil işleme uygulaması.
+RTE Hitabe Üreticisi, Türkiye'nin Başkanı Recep Tayyip Erdoğan tarafından 2015 ve 2020 Temmuz tarihleri arasında yapılan konuşmaları **analiz ederek yeni hitabe üreten** bir doğal dil işleme uygulaması.
 
 ### Kullanılan Kütüphaneler
 
