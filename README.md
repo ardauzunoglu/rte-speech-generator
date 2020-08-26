@@ -15,7 +15,7 @@ RTE Speech Generator is a natural language processing application that **analyze
 
 ### Requirements
 
-> You must install the libraries in cmd with the command "pip install xxxxx".
+> You must install the libraries in cmd using the command "pip install xxxxx".
 
 ### Developer
 
