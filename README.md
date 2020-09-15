@@ -25,6 +25,8 @@ Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
 
 Application still can be trained and improved.
 
+Latest Update: 26 August 2020
+
 
 ### Amaç
 
@@ -51,3 +53,4 @@ Arda Uzunoğlu - [ardauzunoglu](https://github.com/ardauzunoglu)
 
 Uygulama, hala train edilebilir ve geliştirilebilir.
 
+Son Güncelleme: 26 Ağustos 2020
