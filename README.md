@@ -30,7 +30,7 @@ Latest Update: 26 August 2020
 
 ### Amaç
 
-RTE Hitabe Üreticisi, Türkiye'nin Başkanı Recep Tayyip Erdoğan tarafından 2015 ve 2020 Temmuz tarihleri arasında yapılan konuşmaları **analiz ederek yeni hitabe üreten** bir doğal dil işleme uygulaması.
+RTE Hitabe Üreticisi, Türkiye'nin Cumhurbaşkanı Recep Tayyip Erdoğan tarafından 2015 ve 2020 Temmuz tarihleri arasında yapılan konuşmaları **analiz ederek yeni hitabe üreten** bir doğal dil işleme uygulaması.
 
 ### Kullanılan Kütüphaneler
 
